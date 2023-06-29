@@ -25,15 +25,17 @@ Tags: '''Cooked dairy''' '''Egg''' '''High protein''' '''High fiber'''
 | 4T | 8T | Honey or molasses |
 
 ## Flour options
-There's more than just wheat. Find your local co-op and explore the bulk grains. I've had great luck (and taste) with the following:
-| Grain | Protein (g/C) | Fiber (g/C) |
-|--|--|--|
-| Wheat (hard) |  |  |
-| Buckwheat |  |  |
-| Oat |  |  |
-| Rye |  |  |
-| Popcorn |  |  |
+There's more to whole grain than just wheat. Find your local co-op and explore the bulk grains. I've had great luck (and taste) with the following:
 
+| Grain (per 100g of flour) | Protein (g) | Fiber (g) | Source |
+|--|--|--|--|
+| Wheat (hard) | 15.1 | 10.6 | [USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/790085/nutrients) |
+| Buckwheat | 8.9 | 11.4 |  [USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/2512374/nutrients) |
+| Oat | 13.2 | 10.5 |  [USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/2261421/nutrients) |
+| Rye | 10.9 | 11.8 |  [USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/2512375/nutrients) |
+| Spelt | 14.6 | 10.7 |  [USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/169745/nutrients) |
+| Popcorn (yes, you can use it!) | 12.9 | 14.5 | [USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/167959/nutrients) |
+| Brown rice | 7.3 | 4.6 |  [USDA](https://fdc.nal.usda.gov/fdc-app.html#/food-details/168898/nutrients) |
 
 ## Steps
 ### Preliminary
