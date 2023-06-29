@@ -1,9 +1,8 @@
 # Optimal waffles
-# In progress -- incomplete!
 
 Optimal in the sense of both time and nutrition. Once you've made these three times, you'll be able to do it in your sleep!
 
-Tags: '''Cooked dairy''' '''Egg''' '''High protein''' '''High fiber'''
+Notes: Cooked dairy; egg; high protein; high fiber; contains gluten
 
 ## Ingredients
 | 1 recipe | 2 recipes | Ingredient |
